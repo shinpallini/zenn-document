@@ -3,7 +3,7 @@ title: "Haskellで競技プログラミングがしたい！Part1 勉強方針"
 emoji: "🎉"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Haskell", "Codespaces", "Atcoder", "アルゴリズム×数学"]
-published: false
+published: true
 ---
 ## 自己紹介
 こんにちは、ぱりーにと申します！
