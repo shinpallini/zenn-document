@@ -23,6 +23,7 @@ Kubernetesが好きなのでCertified Kubernetes Administrator(CKA)を取得し�
 https://gihyo.jp/book/2022/978-4-297-12521-9
 
 また、この本は**Atcoder**と連携しており、練習問題がこのプラットフォーム上にあるのでここのサイトで学習していきます。
+ゴールはこの本で用意されている練習問題をHaskellで解き切ることとしています。
 https://atcoder.jp/contests/math-and-algorithm/tasks
 
 実行環境は**Github Codespaces**で作ることのできるデフォルト環境にHaskellをインストールして開発やテストをします。
