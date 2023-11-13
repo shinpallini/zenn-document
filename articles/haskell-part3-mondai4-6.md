@@ -86,16 +86,8 @@ main = do
 今回は`` `mod` ``という関数が出てきました。
 `` `mod` ``は標準で用意されている関数で、余りを計算できます。
 ```haskell
-ghci> mod 10 3
-1
-ghci> :i mod
-type Integral :: * -> Constraint
-class (Real a, Enum a) => Integral a where
-  ...
-  mod :: a -> a -> a
-  ...
-        -- Defined in ‘GHC.Real’
-infixl 7 `mod`
+ghci> :t mod
+mod :: Integral a => a -> a -> a
 ```
 2個の**Integral**型である値を引数にとって余りを計算してくれます。
 また、関数なので後ろに引数を置く形が一般的ですが2個の引数をとる関数にのみバッククォートで囲むことで中置演算子のように扱うことができます。
