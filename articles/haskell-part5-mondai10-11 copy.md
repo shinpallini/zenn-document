@@ -1,5 +1,5 @@
 ---
-title: "素数判定を実装する！練習問題(10~11問目)【Haskellで競技プログラミングがしたい！ Part4】"
+title: "素数判定を実装する！練習問題(10~11問目)【Haskellで競技プログラミングがしたい！ Part5】"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Haskell", "Codespaces", "Atcoder", "アルゴリズム×数学"]
